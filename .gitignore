@@ -1,0 +1,51 @@
+# ========================
+# Python & Streamlit Project
+# ========================
+
+# Streamlit secrets (DO NOT COMMIT)
+.streamlit/secrets.toml
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+
+# Distribution / packaging
+build/
+dist/
+downloads/
+*.egg-info/
+.eggs/
+
+# PyInstaller
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Mypy type checker
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# PyBuilder
+.pybuilder/
+target/
+
+# IDE Settings
+# IntelliJ / PyCharm
+.idea/
+
+# Output
+out/
+
+# MacOS / Windows system files
+.DS_Store
+Thumbs.db
